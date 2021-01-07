@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.itis.kpfu.SimonOnBoard</groupId>
-    <artifactId>mongodb-full-hateoas-querydsl</artifactId>
+    <artifactId>mongodb-full-hateoas</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mongodb-full-hateoas-querydsl</name>
+    <name>mongodb-full-hateoas</name>
     <description>homework for javalab with mongodb usage and hateoas</description>
 
     <properties>
